@@ -1,4 +1,4 @@
-# Collecting csi data with WiFi-sensing and Analysis of csi data through ai model learning
+# Collecting csi data with WiFi-sensing(Rasberrypie) and Analysis of csi data through ai model learning
 
 
 
