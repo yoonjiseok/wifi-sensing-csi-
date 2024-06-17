@@ -1,3 +1,7 @@
+# Collecting csi data with WiFi-sensing and Analysis of csi data through ai model learning
+
+
+
 # mowa-wifi-sensing
 
 The mowa-wifi-sensing module performs real-time Wi-Fi CSI-based human activity recognition. CSI collected from the [Nexmon extractor](https://github.com/seemoo-lab/nexmon_csi) is delivered to the server using socket communication, and the server uses window-size-CSI-data as an input value for the trained activity classification model.
