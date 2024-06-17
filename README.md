@@ -1,6 +1,6 @@
 # Collecting csi data with WiFi-sensing(Rasberrypie) and Analysis of csi data through ai model learning
 
-
+Remove the part that uses gpu and modify it to code that uses cpu
 
 # mowa-wifi-sensing
 
